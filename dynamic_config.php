@@ -1,0 +1,3 @@
+<?php
+$dynamic_config=array('access_token'=>'CAAHpcQAjicEBAGujtobkaOb9MbOGdbxJEEY9jGO5ZB6LWJXzzZAxT5X8WMLdB5v7cwEg9ZCfUiuZAqKPwYMuoCEZAC27u73GQNECR6Av8N88KkCHB1nKZBFOi2gbsnkmcGyoMOvYMqXxdYqFh9u9dgKwOjjX004XjJyl6aOqXAZAgHVrbBv4w7i');
+?>
